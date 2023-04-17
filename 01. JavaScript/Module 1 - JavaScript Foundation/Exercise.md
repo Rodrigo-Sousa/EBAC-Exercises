@@ -17,18 +17,24 @@ Enviar link(s) do git ou do fiddle.
 ## Resposta:
 1. Resposta do 1º exercício:
 ```
-1. Inicio;
-2. O Homem entra no barco com o Lobo na margem 1.
+1. Início;
+2. O Homem entra no barco com a Cabra na margem 1.
 3. Atravessam o rio para margem 2.
-4. Na margem 2, o Lobo desce.
+4. Na margem 2, a Cabra desce.
 5. O homem fica no barco e volta pra margem 1.
-6. A Alfafa entra no barco junto com o Homem.
-7. Atravessam o rio para margem 2.
+6. Atravessam o rio para margem 2.
+7. O Homem entra no barco com a Alfafa na margem 1.
 8. Na margem 2, a Alfafa desce.
-9. O homem fica no barco e volta pra margem 1.
-10. A Cabra entra no barco junto com o Homem.
-11. Na margem 2, a Cabra e o Homem descem.
-12. Fim;
+9. O Homem fica no barco e a Cabra entra na margem 2.
+10. O Homem e a Cabra voltam pra margem 1.
+11. Na margem 1 a Cabra desce e o Lobo sobre. 
+12. O Homem e o Lobo vão pra margem 2.
+13. Na margem 2, o Lobo desce.
+14. O homem fica no barco e volta pra margem 1.
+15. A Cabra entra no barco junto com o Homem.
+16. Resposta do 2º exercício:
+17. Na margem 2, a Cabra e o Homem descem.
+18. Fim;
 ```
 
 2. Resposta do 2º exercício:
@@ -73,7 +79,7 @@ input, button{
 	var c = parseInt(document.getElementById("c").value);
 	
     // variável que recebe os 3 números, faz a soma e dividie por 3. Com a função para retornar o valor de um número arredondado para o inteiro mais próximo.
-	var  media = Math.round((a + b + c) / 3);
+	var  media = (a + b + c) / 3;
 
     // Apresentando o resultado dentro da div com o Id "resultado".
 	document.getElementById("resultado").innerHTML = "Resultado: " + media;
