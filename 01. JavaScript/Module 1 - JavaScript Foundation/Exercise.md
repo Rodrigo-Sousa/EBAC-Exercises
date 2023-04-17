@@ -32,7 +32,7 @@ Enviar link(s) do git ou do fiddle.
 13. Na margem 2, o Lobo desce.
 14. O homem fica no barco e volta pra margem 1.
 15. A Cabra entra no barco junto com o Homem.
-16. Resposta do 2º exercício:
+16. Atravessam o rio para margem 2.
 17. Na margem 2, a Cabra e o Homem descem.
 18. Fim;
 ```
